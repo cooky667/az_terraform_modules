@@ -1,2 +1,2 @@
 # az_modules
-Publicly accessible Azure modules
+Publicly accessible Azure Terraform modules
